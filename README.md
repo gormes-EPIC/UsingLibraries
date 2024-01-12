@@ -42,9 +42,12 @@ You will need to install and use the [exif](https://pypi.org/project/exif/) modu
 1. Choose one other module from the package index
 2. Create a Python program to demonstrate the basic functionality of the module.
 3. You will present this module to the rest of the class
-### Rubric
+---
+## Rubric
 4 points - Complete repository including images and outputted text files. Code should have in-line comments to explain your thinking but you do not need do Javadoc comments.
+
 3 points - Some components as described above are missing. Code may be present, but is uncommented, etc.
+
 2 points - Incomplete or missing.
 
 ### Extra Credit
